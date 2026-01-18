@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel!
 
-<!--
-**GabrielCollopy/GabrielCollopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um dev focado em contrução de APIs Rest utilizando Java e Spring!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+<div style="display: inline_block">
+  
+  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  &nbsp;&nbsp;&nbsp;
+  
+  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  &nbsp;&nbsp;&nbsp;
+
+  <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  &nbsp;&nbsp;&nbsp;
+
+  <img align="center" alt="Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+</div>
+
+<br/>
+
+---
+
+### Estatísticas no GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000" alt="Stats" />
+</p>
+
+### 📫 Onde me encontrar:
+* [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+* [Email](mailto:gabrielcollopy96@gmail.com)
