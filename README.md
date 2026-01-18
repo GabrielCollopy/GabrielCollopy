@@ -27,7 +27,7 @@ Sou um dev focado em contrução de APIs Rest utilizando Java e Spring!
 ### Estatísticas no GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielCollopy&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000" alt="Stats" />
 </p>
 
 ### 📫 Onde me encontrar:
